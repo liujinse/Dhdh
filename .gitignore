@@ -1,3 +1,6 @@
 video/build/
 video/stills/
 video/audio/*.mp3
+video/*/build/
+video/*/stills/
+video/*/audio/*.mp3
